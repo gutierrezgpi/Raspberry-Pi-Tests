@@ -5,23 +5,23 @@ For the SD Card to work correctly it is necessary to create the sd folder on the
 ## Setup
 - Adafruit CircuitPython 9.1.1
 
-<div style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
-    <figure style="text-align: center; margin: 0;">
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <div style="text-align: center;">
         <img src="https://github.com/gutierrezgpi/Raspberry-Pi-Tests/blob/main/Pico/Img/Raspberry_Pi_Pico.webp?raw=true" alt="Raspberry Pi Pico" width="200">
-        <figcaption style="text-align: center;">Raspberry Pi Pico</figcaption>
-    </figure>
-    <figure style="text-align: center; margin: 0;">
+        <p style="margin: 0;">Raspberry Pi Pico</figcaption>
+    </div>
+    <div style="text-align: center;">
         <img src="https://github.com/gutierrezgpi/Raspberry-Pi-Tests/blob/main/Pico/Img/BMP_280.webp?raw=true" alt="BMP 280 Sensor" width="200">
-        <figcaption style="text-align: center;">BMP 280 Sensor</figcaption>
-    </figure>
-    <figure style="text-align: center; margin: 0;">
+        <p style="margin: 0;">BMP 280 Sensor</figcaption>
+    </div>
+    <div style="text-align: center;">
         <img src="https://github.com/gutierrezgpi/Raspberry-Pi-Tests/blob/main/Pico/Img/DHT_22.webp?raw=true" alt="DHT 22 Sensor" width="200">
-        <figcaption style="text-align: center;">DHT 22 Sensor</figcaption>
-    </figure>
-    <figure style="text-align: center; margin: 0;">
+        <p style="margin: 0;">DHT 22 Sensor</figcaption>
+    </div>
+    <div style="text-align: center;">
         <img src="https://github.com/gutierrezgpi/Raspberry-Pi-Tests/blob/main/Pico/Img/Micro_SD_Card_Module.webp?raw=true" alt="Micro SD Card Module" width="200">
-        <figcaption style="text-align: center;">Micro SD Card Module</figcaption>
-    </figure>
+        <p style="margin: 0;">Micro SD Card Module</figcaption>
+    </div>
 </div>
 
 ## Pinout
