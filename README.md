@@ -5,13 +5,12 @@ For the SD Card to work correctly it is necessary to create the sd folder on the
 ## Setup
 - Raspberry Pi Pico with rp2040
 - Adafruit CircuitPython 9.1.1
-- BMP 280
-![BMP 280](https://github.com/gutierrezgpi/Raspberry-Pi-Tests/blob/main/Pico/Img/BMP%20280.webp?raw=true)
+BMP 280
+- <img src="https://github.com/gutierrezgpi/Raspberry-Pi-Tests/blob/main/Pico/Img/BMP%20280.webp?raw=true" alt="BMP 280" width="200">
 - DHT 22
-![DHT 22](https://github.com/gutierrezgpi/Raspberry-Pi-Tests/blob/main/Pico/Img/DHT%2022.webp?raw=true)
+- <img src="https://github.com/gutierrezgpi/Raspberry-Pi-Tests/blob/main/Pico/Img/DHT%2022.webp?raw=true" alt="DHT 22" width="200">
 - Micro SD Card Module
-![Micro SD Card Module](https://github.com/gutierrezgpi/Raspberry-Pi-Tests/blob/main/Pico/Img/Micro%20SD%20Card%20Module.webp?raw=true)
-
+- <img src="https://github.com/gutierrezgpi/Raspberry-Pi-Tests/blob/main/Pico/Img/Micro%20SD%20Card%20Module.webp?raw=true" alt="Micro SD Card Module" width="200">
 
 ## Pinout
 
