@@ -1,3 +1,18 @@
+"""
+Pinout
+
+|BMP280 | Pico   |
+|-------|--------|
+|VCC    |3V3(OUT)|
+|GND    |GND     |
+|SDA    |GP14    |
+|SCL    |GP15    |
+
+GitHub Modules
+https://github.com/adafruit/Adafruit_CircuitPython_BMP280/releases/tag/3.3.2
+https://github.com/adafruit/Adafruit_CircuitPython_BusDevice/releases/tag/5.2.9
+"""
+
 # Core Modules
 from time import sleep
 import board

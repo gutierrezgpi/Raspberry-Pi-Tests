@@ -1,3 +1,15 @@
+"""
+Pinout
+
+|DHT22|Pico    |
+|-----|--------|
+|VCC  |3V3(OUT)|
+|GND  |GND     |
+|SDA  |GP13    |
+
+GitHub Modules
+https://github.com/adafruit/Adafruit_CircuitPython_DHT/releases/tag/4.0.4
+"""
 # Core Modules
 from time import sleep
 import board

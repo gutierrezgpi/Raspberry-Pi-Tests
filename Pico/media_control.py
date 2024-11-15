@@ -1,3 +1,18 @@
+"""
+# Pinout
+
+|Comand              |Pico |
+|--------------------|-----|
+|PLAY_PAUSE          |GP14 |
+|SCAN_PREVIOUS_TRACK |GP15 |
+|SCAN_NEXT_TRACK     |GP13 |
+|VOLUME_DECREMENT    |GP12 |
+|VOLUME_INCREMENT    |GP11 |
+
+GitHub Modules
+https://github.com/adafruit/Adafruit_CircuitPython_HID/releases/tag/6.1.1
+"""
+
 # Core Modules
 import board
 import digitalio

@@ -1,3 +1,20 @@
+"""
+Pinout
+
+|SD Card | Pico |
+|--------|------|
+|VCC     | VSYS |
+|GND     | GND  |
+|MISO    | GP12 |
+|MOSI    | GP11 |
+|SCK     | GP10 |
+|CS      | GP13 |
+
+GitHub Modules
+https://github.com/adafruit/Adafruit_CircuitPython_SD/releases/tag/3.3.23
+https://github.com/adafruit/Adafruit_CircuitPython_BusDevice/releases/tag/5.2.9
+"""
+
 # Core Modules
 from time import sleep
 import board
