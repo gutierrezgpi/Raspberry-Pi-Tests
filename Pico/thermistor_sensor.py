@@ -1,9 +1,18 @@
+'''
+Pinout
+
+3.3V ---- [Resistor 10kΩ] ----+---- [Termistor NTC] ---- GND
+                              |
+                          (ADC1 GP27)
+
+'''
+
 import time
 import board
 import analogio
 import math
 
-# Configura o ADC no pino GP26 (A0)
+# Configura o ADC no pino GP27 (A1)
 termistor = analogio.AnalogIn(board.A1)
 
 # Constantes para cálculo da temperatura (valores para um termistor NTC 10kΩ)

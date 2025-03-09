@@ -1,3 +1,12 @@
+'''
+Pinout
+
+3.3V ---- [LDR] ----+---- [Resistor 10kΩ] ---- GND
+                    |
+                (ADC0 GP26)
+
+'''
+
 import time
 import board
 import analogio
