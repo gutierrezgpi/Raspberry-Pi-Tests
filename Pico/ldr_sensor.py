@@ -11,4 +11,4 @@ def ler_luminosidade():
 while True:
     valor = ler_luminosidade()
     print(f"Luminosidade: {valor}")
-    time.sleep(0.5)
+    time.sleep(2)
