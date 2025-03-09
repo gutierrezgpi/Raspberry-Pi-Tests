@@ -39,7 +39,7 @@ For the SD Card to work correctly it is necessary to create the sd folder on the
 |-----|--------|
 |VCC  |3V3(OUT)|
 |GND  |GND     |
-|SDA  |GP13    |
+|SDA  |GP9     |
 
 ### SD Card
 
