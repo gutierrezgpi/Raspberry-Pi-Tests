@@ -34,4 +34,4 @@ def ler_temperatura():
 while True:
     temp = ler_temperatura()
     print(f"Temperatura: {temp:.2f} °C")
-    time.sleep(1)
+    time.sleep(2)
