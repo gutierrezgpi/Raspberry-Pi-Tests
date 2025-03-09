@@ -4,7 +4,7 @@ try:
     # Porta Windows
     #porta_serial = serial.Serial('COM4', 9600)
     # Porta Linux
-    porta_serial = serial.Serial('/dev/ttyACM0', 115200, timeout=1)
+    porta_serial = serial.Serial('/dev/ttyACM1', 9600, timeout=1)
 
     while True:
         try:
